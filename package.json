@@ -1,0 +1,21 @@
+{
+  "name": "node_beginner",
+  "version": "0.0.1",
+  "description": "node Experiment for Suttirat Kradattong",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alphafast/node_beginner.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/alphafast/node_beginner/issues"
+  },
+  "dependencies": {
+    "socket.io": "~1.4.8"
+  }
+}
